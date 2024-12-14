@@ -1,5 +1,5 @@
 import React from "react";
-import { Github, Instagram, Linkedin } from "lucide-react";
+import { Instagram, Linkedin } from "lucide-react";
 
 const PortfolioWebsite = () => {
   return (
